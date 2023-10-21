@@ -24,7 +24,7 @@ downloaded independently.  User downloads can also be constrained to posts made 
 subreddit list.
 
 The output display can be customized to what level of information you would like to have shown.  Each output level can
-be customized to display in what ever color you would like it shown.
+be customized to display in whatever color you would like it shown.
 
 <br>
 <br>
@@ -82,7 +82,7 @@ can be viewed by clicking 'Imgur Credits' in the help menu.
 
 #### Reddit Video Posts:
 
-Due to the way they are hosted by reddit, video's that are downloaded from v.redd.it will be saved as two files, one 
+Due to the way they are hosted by reddit, videos that are downloaded from v.redd.it will be saved as two files, one 
 video file and one audio file.  In order for the application to merge the two files into one playable video after 
 download, [FFmpeg](https://www.ffmpeg.org/) must be installed and on the system path.
 
